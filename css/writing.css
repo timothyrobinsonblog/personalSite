@@ -12,6 +12,9 @@ html {
 	margin-top: 5vh;
     font-family: Georgia;
     display: flex;
+    		overflow-x: hidden;
+		/*overflow: hidden;*/
+		/*position: fixed;*/
 }
 
 /*==============================
@@ -182,6 +185,7 @@ MOBILE/BURGER CSS
 
 	html {
 		font-size: 12px;
+		overflow-x: hidden;
 	}
 
 	.container {
@@ -214,13 +218,34 @@ MOBILE/BURGER CSS
 		margin-top: 4%; 
 	}
 
+	.essays {
+		display: grid;
+		grid-template-columns: auto;
+		grid-template-areas: 
+			"analytic  		   	"
+			"analytic-text 		"
+			"middlemarch 		"
+			"middlemarch-text   "
+			"sartre 			"
+			"sartre-text 		";
+	}
+
+	.analytic {
+ 		padding: 0 10% 0 10%;
+ 	}
+
+	.middlemarch {
+ 		padding: 0 10% 0 10%;
+ 	}
+
+ 	.sartre {
+ 		padding: 0 10% 0 10%;
+ 	}
+
+
 /*==============================
   RESPONSIVE MOBILE/BURGER
 ==============================*/
-	body {
-		overflow-x: hidden;
-	}
-
 	.burger {
 		display: block;
 	}
@@ -230,7 +255,7 @@ MOBILE/BURGER CSS
 	}
 
 	.nav-links {
-		position: absolute;
+		position: fixed;
 		right: 0px;
 /*		height: 100vh;
 		top: 0vh;*/

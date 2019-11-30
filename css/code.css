@@ -161,6 +161,7 @@ li {
 
 	html {
 		font-size: 14px;
+		overflow-x: hidden;
 	}
 
 	.container {
@@ -201,10 +202,6 @@ li {
 /*==============================
   RESPONSIVE MOBILE/BURGER
 ==============================*/
-	body {
-		overflow-x: hidden;
-	}
-
 	.burger {
 		display: block;
 	}
@@ -214,11 +211,11 @@ li {
 	}
 
 	.nav-links {
-		position: absolute;
+		position: fixed;
 		right: 0px;
 /*		height: 100vh;
 		top: 0vh;*/
-		height: 100vh;
+		height: 70vh;
 		top: 0vh;
 /*		background-color: #7eb0a5;*/
 		background-color: #9b242a;

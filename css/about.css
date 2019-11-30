@@ -140,6 +140,9 @@ MOBILE/BURGER CSS
 
 	html {
 		font-size: 12px;
+/*		overflow-x: hidden;
+		position: fixed;*/
+		overflow-x: hidden;
 	}
 
 	.container {
@@ -175,10 +178,6 @@ MOBILE/BURGER CSS
 /*==============================
   RESPONSIVE MOBILE/BURGER
 ==============================*/
-	body {
-		overflow-x: hidden;
-	}
-
 	.burger {
 		display: block;
 	}
@@ -188,7 +187,7 @@ MOBILE/BURGER CSS
 	}
 
 	.nav-links {
-		position: absolute;
+		position: fixed;
 		right: 0px;
 /*		height: 100vh;
 		top: 0vh;*/
