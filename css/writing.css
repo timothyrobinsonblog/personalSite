@@ -187,8 +187,6 @@ MOBILE/BURGER CSS
 	html {
 		font-size: 12px;
 		overflow-x: hidden;
-			padding-bottom: 4vh;
-			margin-bottom: 4vh;
 	}
 
 	.container {
@@ -243,8 +241,6 @@ MOBILE/BURGER CSS
 
  	.sartre {
  		padding: 0 20% 0 20%;
- 				padding-bottom: 4vh;
-			margin-bottom: 4vh;
  	}
 
 
