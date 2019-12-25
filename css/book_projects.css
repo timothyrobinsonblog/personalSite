@@ -69,7 +69,7 @@ ul {
 }
 
 #ek-link:hover {
-	margin-left: 0%; 
+	margin-left: 0%;
 }
 
 .social {
@@ -184,6 +184,10 @@ MOBILE/BURGER CSS
 		justify-content: space-between;
 		border-bottom: 1px solid #000;
 		padding-bottom: 5px;
+	}
+
+	.mobile-book-links {
+		display: none;
 	}
 
 	.title {

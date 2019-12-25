@@ -172,6 +172,10 @@ MOBILE/BURGER CSS
 		padding-bottom: 5px;
 	}
 
+	.mobile-book-links {
+		display: none;
+	}
+
 	.title {
 		margin-top: 4%; 
 	}
