@@ -260,8 +260,8 @@ MOBILE/BURGER CSS
 		right: 0px;
 /*		height: 100vh;
 		top: 0vh;*/
-		height: 100vh;
-		top: 0vh;
+		height: 100%;
+		top: 0;
 /*		background-color: #7eb0a5;*/
 		background-color: #9b242a;
 		display: flex;
