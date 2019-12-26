@@ -284,8 +284,8 @@ li {
 		grid-template-areas: 
 			"pic1"
 			"text1"
-			"pic2"
-			"text2";
+			"text2"
+			"pic2";
 	}
 }
 
