@@ -128,7 +128,7 @@ MOBILE/BURGER CSS
 @media screen and (max-width: 1024px) {
 
 	html {
-		font-size: 13px;
+		font-size: 12px;
 		overflow-x: hidden;
 	}
 
@@ -160,10 +160,6 @@ MOBILE/BURGER CSS
 
 	.title {
 		margin-top: 4%; 
-	}
-
-	.text {
-		font-size: 1.1rem;
 	}
 
 /*==============================
