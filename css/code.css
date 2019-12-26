@@ -214,15 +214,13 @@ li {
 	.nav-links {
 		position: fixed;
 		right: 0px;
-/*		height: 100vh;
-		top: 0vh;*/
-		height: 100vh;
-		top: 0vh;
+		height: 100%;
+		top: 0;
 /*		background-color: #7eb0a5;*/
 		background-color: #9b242a;
 		display: flex;
-		padding-top: 20%;
 		flex-direction: column;
+		justify-content: center;
 		align-items: center;
 		width: 100%;
 		transform: translateX(100%);
@@ -246,7 +244,7 @@ li {
 
 	.social {
 		color: #FFF9E5;	
-		margin-top: 1rem;
+		padding: 2% 0 5vh 0;
 		font-size: 1.75rem;	
 	}
 
