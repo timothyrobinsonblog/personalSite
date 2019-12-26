@@ -293,7 +293,8 @@ MOBILE/BURGER CSS
 		color: #FFF9E5;	
 		/*margin-top: 1rem;*/
 		padding-top: 2%;
-		font-size: 1.75rem;	
+		font-size: 1.75rem;
+		padding-bottom: 5vh;
 	}
 
 	.nav-active {
