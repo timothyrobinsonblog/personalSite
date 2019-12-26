@@ -162,6 +162,10 @@ MOBILE/BURGER CSS
 		margin-top: 4%; 
 	}
 
+	.text {
+		font-size: 1.25rem;
+	}
+
 /*==============================
   RESPONSIVE MOBILE/BURGER
 ==============================*/
