@@ -105,25 +105,41 @@ MOBILE/BURGER CSS
 	margin-bottom: 3%;
 }
 
+.text {
+	margin-top: 4%;
+	text-align: justify;
+	font-size: 1rem;
+}
+
  .pictures {
  	display: grid;
  	margin-top: 4%;
- 	grid-column-gap: 1.5vw;
- 	grid-row-gap: 2.5vh;
- 	grid-template-columns: repeat(2, 1fr);
+/* 	grid-column-gap: 1.5vw;
+ 	grid-row-gap: 2.5vh;*/
+ 	grid-row-gap: 1vh;
+ 	grid-template-columns: repeat(1, 1fr);
 }
 
  .pictures img {
  	max-width: 100%;
- 	display: block;
+/* 	display: block;*/
  }
 
- .pictures img:hover {
+/* .pictures img:hover {
 	transform: scale(1.1);
+}*/
+
+.picture-text {
+ 	text-align: justify;
+ 		/*gap between line and text (inside div)*/
+ 	padding: 0 10% 2% 10%;
+ 		/*gap between line and picture below (outside div)*/
+ 	margin-bottom: 8%;
+ 	border-bottom: solid black 1px;
 }
 
 .ek-video {
-	margin-top: 1vh;
+	margin-top: 4%;
 	display: block;
 	max-width: 100%;
 }
