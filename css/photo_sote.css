@@ -128,9 +128,9 @@ MOBILE/BURGER CSS
 
 .picture-text {
  	text-align: justify;
- 		/*grap between line and text (inside div)*/
+ 		/*gap between line and text (inside div)*/
  	padding: 0 10% 2% 10%;
- 		/*grap between line and picture below (outside div)*/
+ 		/*gap between line and picture below (outside div)*/
  	margin-bottom: 8%;
  	border-bottom: solid black 1px;
 }
@@ -203,7 +203,7 @@ MOBILE/BURGER CSS
 		height: 100%;
 		top: 0;
 /*		background-color: #7eb0a5;*/
-		background-color: #9b242a;
+		background-color: #a51f26;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
