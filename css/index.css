@@ -26,10 +26,15 @@ a.link-div {
 }
 
 /*==============================
-  RESPONSIVE DESIGN
+  RESPONSIVE DESIGN:
 ==============================*/
 
-@media screen and (max-width: 992px) {
+/*================
+MUMS SCREEN IS SAME AS SUMSCREEN SCREEN. PROBABLY BEST TO JUST HAVE ONE PICTURE FOR ALL DEVICES
+===============*/
+
+
+/*@media screen and (max-width: 992px) {
 
 	body {
 		background-image: url('../img/index_4.jpg');
@@ -58,4 +63,4 @@ a.link-div {
 		padding-bottom: 4%;
 		margin: 2% 0 2% 0;
 	}
-}
+}*/
