@@ -125,7 +125,7 @@ MOBILE/BURGER CSS
 /*==============================
   RESPONSIVE DESIGN: TABLET
 ==============================*/
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 992px) {
 
 	html {
 		font-size: 12px;

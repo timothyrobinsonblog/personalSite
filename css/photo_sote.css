@@ -113,6 +113,9 @@ MOBILE/BURGER CSS
 	margin-top: 4%;
 	text-align: justify;
 	font-size: 1rem;
+ 	border-top: solid black 1px;
+ 	border-bottom: solid black 1px;
+ 	padding: 2% 10% 2% 10%;
 }
 
 .pictures {
@@ -145,7 +148,7 @@ MOBILE/BURGER CSS
 /*==============================
   RESPONSIVE DESIGN: TABLET
 ==============================*/
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 992px) {
 
 	html {
 		font-size: 12px;
