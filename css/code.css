@@ -286,8 +286,8 @@ li {
 		grid-column-gap: 2%;
 		grid-template-columns: repeat(1, auto);
 		grid-template-areas: 
-			"pic1"
 			"text1"
+			"pic1"
 			"text2"
 			"pic2";
 	}
