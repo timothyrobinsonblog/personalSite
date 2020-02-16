@@ -278,6 +278,10 @@ MOBILE/BURGER CSS
 	.container {
     	width: 100%;
 	}
+
+	.title, .text {
+		text-align: center;
+	}
 }
 
 
