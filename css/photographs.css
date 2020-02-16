@@ -177,6 +177,11 @@ MOBILE/BURGER CSS
   		grid-row-gap: 5vh;
  	}
 
+ 	.empty {
+ 		display: none;
+ 	}
+
+
 /*==============================
   RESPONSIVE MOBILE/BURGER
 ==============================*/
