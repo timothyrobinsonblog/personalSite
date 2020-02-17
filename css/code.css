@@ -280,6 +280,18 @@ li {
 		text-align: center;
 	}
 
+	.text1, .text2 {
+		 padding: 0 10% 0% 10%;
+	}
+
+	.picture1, .picture2 {
+		 padding: 0 5% 0% 30%;
+	}
+
+/*	.picture2 {
+		 padding: 0 30% 0% 5%;
+	}*/
+
 	.text {
 		display: grid;
 		grid-row-gap: 3%;
