@@ -284,8 +284,12 @@ li {
 		 padding: 0 10% 0% 10%;
 	}
 
-	.picture1, .picture2 {
-		 padding: 0 5% 0% 30%;
+	.picture1 {
+		 padding: 0 5% 0% 5%;
+	}
+
+	.picture1 {
+		 padding: 0 15% 0% 15%;
 	}
 
 /*	.picture2 {
