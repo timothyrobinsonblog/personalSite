@@ -114,6 +114,10 @@ MOBILE/BURGER CSS
 	display: block;
 }
 
+.mobile-pic {
+	display: none;
+}
+
 .text {
 	margin-top: 4%;
 	text-align: justify;
@@ -260,6 +264,15 @@ MOBILE/BURGER CSS
 		text-align: center;
 	}
 
+	.text {
+		padding: 0 10% 0 10%;
+	}
+
+	.mobile-pic {
+		display: block;
+		margin: 0 15% 4% 15%;
+	}
+
 	.picture {
 		width: 100%;
 		display: flex;
@@ -271,7 +284,7 @@ MOBILE/BURGER CSS
  		width: 60%;
   		height: 100%;
 		display: block;
-		margin: 0 20% 4% 20%;
+		margin: 0 15% 4% 15%;
 
 	}
 
