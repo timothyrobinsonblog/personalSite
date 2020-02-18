@@ -148,6 +148,10 @@ li {
 	font-size: 1.5rem;
 }
 
+.mobile-picture {
+	 display: none
+}
+
 /*==============================
   EMPTY SPACE ON THE RIGHT
 ==============================*/
@@ -280,22 +284,6 @@ li {
 		text-align: center;
 	}
 
-	.text1, .text2 {
-		 padding: 0 10% 0% 10%;
-	}
-
-	.picture1 {
-		 padding: 0 5% 0% 5%;
-	}
-
-	.picture2 {
-		 padding: 0 10% 0% 20%;
-	}
-
-/*	.picture2 {
-		 padding: 0 30% 0% 5%;
-	}*/
-
 	.text {
 		display: grid;
 		grid-row-gap: 3%;
@@ -307,6 +295,27 @@ li {
 			"text2"
 			"pic2";
 	}
+
+	.text1, .text2 {
+		 padding: 0 10% 0% 10%;
+	}
+
+	.picture1 {
+		 padding: 0 5% 0% 5%;
+	}
+
+	.picture2 {
+		display: none;
+	}
+
+	.mobile-picture {
+		 display: block;
+		 padding: 0 15% 0% 15%;
+		 font-size: 1.625rem;
+		 text-align: right;
+		 
+	}
+
 }
 
 
