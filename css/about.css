@@ -114,9 +114,8 @@ MOBILE/BURGER CSS
 	display: block;
 }
 
-.mobile-pic img {
+.mobile-picture {
 	display: none;
-	width: 70%;
 }
 
 .text {
@@ -265,28 +264,21 @@ MOBILE/BURGER CSS
 		text-align: center;
 	}
 
+	.picture {
+		display: none;
+	}
+
 	.text {
 		padding: 0 10% 0 10%;
 	}
 
-	.mobile-pic img {
+	.mobile-picture {
 		display: block;
-		margin: 0 15% 4% 15%;
 	}
 
-	.picture {
+	.mobile-picture img {
 		width: 100%;
-		display: flex;
-		flex-direction: column;
-		justify-content: space-between;
-}
-
-	.picture img {
- 		width: 60%;
   		height: 100%;
-		display: block;
-		margin: 0 15% 4% 15%;
-
 	}
 
 }
