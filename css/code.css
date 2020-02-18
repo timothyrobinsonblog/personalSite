@@ -296,12 +296,8 @@ li {
 			"pic2";
 	}
 
-	.text1, .text2 {
+	.text1, .text2, .picture1 {
 		 padding: 0 5% 0% 5%;
-	}
-
-	.picture1 {
-		 padding: 0 10% 0% 10%;
 	}
 
 	.picture2 {
@@ -310,7 +306,7 @@ li {
 
 	.mobile-picture {
 		 display: block;
-		 padding: 0 10% 0% 10%;
+		 padding: 0 5% 0% 5%;
  
 	}
 
