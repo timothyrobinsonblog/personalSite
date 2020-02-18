@@ -118,10 +118,27 @@ MOBILE/BURGER CSS
 	transform: scale(1.1);
 }
 
-.ek-video {
+/*.ek-video {
 	margin-top: 1vh;
 	display: block;
 	max-width: 100%;
+}*/
+
+.text {
+	margin-top: 4%;
+	text-align: justify;
+	font-size: 1rem;
+ 	border-top: solid black 1px;
+ 	border-bottom: solid black 1px;
+ 	padding: 2% 10% 2% 10%;
+}
+
+.text-link {
+	color: black;
+}
+
+.text-link:hover {
+	color: gray;
 }
 
 
