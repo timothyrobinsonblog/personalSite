@@ -317,7 +317,7 @@ li {
 	.mobile-text {
 		 display: block;
 		 padding: 0;
-		 margin-left: -5%;
+		 margin-right: -15%;
 		 font-size: 1.35rem;
 		 text-align: left;	
 	}
