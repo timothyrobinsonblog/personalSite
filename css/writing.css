@@ -11,9 +11,9 @@ html {
     width: 100%;
     max-width: 1500px;
 	margin-top: 5vh;
-    font-family: Georgia;
-    display: flex;
-    		overflow-x: hidden;
+	font-family: Georgia, 'Times New Roman', serif;
+	display: flex;
+    	/* overflow-x: hidden; */
 		/*overflow: hidden;*/
 		/*position: fixed;*/
 }
