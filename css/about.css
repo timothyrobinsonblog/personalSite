@@ -258,11 +258,12 @@ MOBILE/BURGER CSS
 @media screen and (max-width: 768px) {
 	.container {
 		width: 100%;
-		font-size-adjust: .75;
+
 	}
 
 	.title {
 		text-align: center;
+		font-size-adjust: .75;
 	}
 
 	.picture {
@@ -272,6 +273,7 @@ MOBILE/BURGER CSS
 	.text {
 		padding: 0 10% 0 10%;
 		text-align: left;
+		font-size-adjust: .75;
 	}
 
 	.mobile-picture {
