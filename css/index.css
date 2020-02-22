@@ -1,0 +1,15 @@
+html, body {
+	background-image: url('../img/index.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-color: black;
+	margin: 0 auto;
+}
+
+a.link-div {
+    display: block;
+    height: 100%;
+    width: 100%;    
+}
