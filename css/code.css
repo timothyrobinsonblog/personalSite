@@ -113,7 +113,7 @@ li {
 	grid-row-gap: 2%;
 	grid-column-gap: 2%;
 	grid-template-columns: 1fr 1fr .5fr .75fr .75fr;
-	grid-template-rows: repeat(2, 1fr);
+	grid-template-rows: repeat(2, auto);
 	grid-template-areas: 
 		"pic1   pic1   pic1   text1   text1"
 		"text2  text2  pic2   pic2    pic2";
