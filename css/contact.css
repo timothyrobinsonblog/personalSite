@@ -236,7 +236,8 @@ MOBILE/BURGER CSS
 @media screen and (max-width: 768px) {
   .container {
     width: 100%;
-    margin: 0;
+    margin-left: 0;
+    padding-left: 0;
   }
 
   .title {
