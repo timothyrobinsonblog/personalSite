@@ -238,13 +238,13 @@ MOBILE/BURGER CSS
     width: 90%;
     /* margin-left: 0;
     padding-left: 0; */
-  }
-
-  .main-container {
-    width: 100%;
     margin: 0;
     padding: 0;
   }
+
+  /* .main-container {
+    width: 100%;
+  } */
 
   .title {
     text-align: center;
