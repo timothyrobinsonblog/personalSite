@@ -235,13 +235,13 @@ MOBILE/BURGER CSS
 ==============================*/
 @media screen and (max-width: 768px) {
   .container {
-    width: 100%;
+    /* width: 100%; */
     /* margin-left: 0;
     padding-left: 0; */
   }
 
   .main-container {
-    width: 90%;
+    width: 100%;
     /*		margin: 0 3% 0 3%;*/
     margin-right: 0;
     padding-right: 0;
