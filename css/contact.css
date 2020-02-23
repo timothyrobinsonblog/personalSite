@@ -235,7 +235,7 @@ MOBILE/BURGER CSS
 ==============================*/
 @media screen and (max-width: 768px) {
   .container {
-    width: 92.5%;
+    width: 90%;
     /* margin-left: 0;
     padding-left: 0; */
   }
@@ -250,6 +250,6 @@ MOBILE/BURGER CSS
   }
 
   .text {
-    padding: 0 10% 0 10%;
+    padding: 0 7.5% 0 7.5%;
   }
 }
