@@ -238,6 +238,7 @@ MOBILE/BURGER CSS
     width: 90%;
     /* margin-left: 0;
     padding-left: 0; */
+    margin-top: 5vh;
   }
 
   .main-container {
@@ -250,6 +251,6 @@ MOBILE/BURGER CSS
   }
 
   .text {
-    padding: 0 9% 0 9%;
+    padding: 0 8% 0 8%;
   }
 }
