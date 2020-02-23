@@ -240,6 +240,13 @@ MOBILE/BURGER CSS
     padding-left: 0;
   }
 
+  .main-container {
+    width: 100%;
+    /*		margin: 0 3% 0 3%;*/
+    margin: 0;
+    padding: 0;
+  }
+
   .title {
     text-align: center;
   }
