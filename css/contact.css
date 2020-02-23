@@ -250,4 +250,8 @@ MOBILE/BURGER CSS
   .title {
     text-align: center;
   }
+
+  .text {
+    padding: 0 10% 0 10%;
+  }
 }
