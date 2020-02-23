@@ -245,6 +245,10 @@ MOBILE/BURGER CSS
     padding: 0;
   }
 
+  .mobile-header {
+    width: 90%;
+  }
+
   .title {
     text-align: center;
   }
