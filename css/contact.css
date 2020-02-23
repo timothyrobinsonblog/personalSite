@@ -243,8 +243,8 @@ MOBILE/BURGER CSS
   .main-container {
     width: 100%;
     /*		margin: 0 3% 0 3%;*/
-    margin-right: 0;
-    padding-right: 0;
+    margin: 0;
+    padding: 0;
   }
 
   .title {
