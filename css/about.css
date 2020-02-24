@@ -269,16 +269,15 @@ MOBILE/BURGER CSS
 
   .text {
     padding: 0 8% 0 8%;
-    text-align: justify;
   }
 
   .picture {
     display: none;
   }
 
-  .mobile-picture {
+  /* .mobile-picture {
     display: block;
-  }
+  } */
 
   .mobile-picture img {
     width: 100%;
