@@ -327,11 +327,11 @@ MOBILE/BURGER CSS
     text-align: center;
   }
 
-  /* .text {
+  .text {
     text-align: justify;
     width: 84%;
     padding-left: 8%;
-  } */
+  }
 
   .middlemarch-text,
   .analytic-text {
