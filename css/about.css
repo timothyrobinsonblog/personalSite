@@ -264,11 +264,16 @@ MOBILE/BURGER CSS
   }
 
   .title {
-    text-align: justify;
+    text-align: center;
   }
 
   .text {
     padding: 0 8% 0 8%;
+    text-align: justify;
+  }
+
+  .picture {
+    display: none;
   }
 
   .mobile-picture {
