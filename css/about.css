@@ -275,9 +275,9 @@ MOBILE/BURGER CSS
     display: none;
   }
 
-  /* .mobile-picture {
+  .mobile-picture {
     display: block;
-  } */
+  }
 
   .mobile-picture img {
     width: 100%;
