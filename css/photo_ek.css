@@ -288,7 +288,8 @@ MOBILE/BURGER CSS
   }
 
   .text {
-    padding: 2% 8% 2% 8%;
+    /* padding: 2% 8% 2% 8%; */
+    padding: 2% 0% 2% 0%;
   }
 
   .picture-text {
