@@ -328,10 +328,12 @@ MOBILE/BURGER CSS
   }
 
   .text {
-    padding: 0 8% 0 8%;
+    text-align: justify;
+    width: 84%;
+    padding-left: 8%;
   }
 
-  /* .middlemarch-text,
+  .middlemarch-text,
   .analytic-text {
     padding: 0 8% 4% 8%;
   }
@@ -339,4 +341,4 @@ MOBILE/BURGER CSS
   .sartre-text {
     padding: 0 8% 5% 8%;
   }
-} */
+}
