@@ -276,7 +276,13 @@ li {
 ==============================*/
 @media screen and (max-width: 768px) {
   .container {
-    width: 95%;
+    width: 90%;
+    margin-top: 4vh;
+  }
+
+  .main-container {
+    margin: 0;
+    padding: 0;
   }
 
   .title {
@@ -298,7 +304,7 @@ li {
   .text1,
   .text2,
   .picture1 {
-    padding: 0 10% 0% 10%;
+    padding: 0 8% 0% 8%;
   }
 
   .picture2 {
