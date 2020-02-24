@@ -274,10 +274,20 @@ MOBILE/BURGER CSS
 ==============================*/
 @media screen and (max-width: 768px) {
   .container {
-    width: 100%;
+    width: 90%;
+    margin-top: 4vh;
+  }
+
+  .main-container {
+    margin: 0;
+    padding: 0;
   }
 
   .title {
     text-align: center;
+  }
+
+  .text {
+    padding: 0 8% 0 8%;
   }
 }
