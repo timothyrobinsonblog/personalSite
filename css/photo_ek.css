@@ -202,6 +202,10 @@ MOBILE/BURGER CSS
     grid-row-gap: 5vh;
   }
 
+  .box a {
+        pointer-events: none;
+    }
+    
   /*==============================
   RESPONSIVE MOBILE/BURGER
 ==============================*/
@@ -296,3 +300,8 @@ MOBILE/BURGER CSS
     padding: 0 8% 2% 8%;
   }
 }
+
+
+
+
+
