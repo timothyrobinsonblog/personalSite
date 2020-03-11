@@ -142,7 +142,7 @@ MOBILE/BURGER CSS
 /*==============================
   RESPONSIVE DESIGN: TABLET
 ==============================*/
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1024px) {
   html {
     font-size: 12px;
     /*		overflow-x: hidden;
@@ -252,7 +252,7 @@ MOBILE/BURGER CSS
 /*==============================
   RESPONSIVE DESIGN: PHONE
 ==============================*/
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 576px) {
   .container {
     width: 90%;
     margin-top: 4vh;
