@@ -9,7 +9,7 @@ html {
 .container {
   margin: 0 auto;
   width: 100%;
-  max-width: 1500px;
+  max-width: 1366px;
   margin-top: 5vh;
   font-family: Georgia, "Times New Roman", serif;
   display: flex;
