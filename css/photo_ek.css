@@ -106,7 +106,6 @@ MOBILE/BURGER CSS
 }
 
 .text {
-  margin-top: 4%;
   text-align: justify;
   font-size: 1rem;
   border-top: solid black 1px;
@@ -124,7 +123,8 @@ MOBILE/BURGER CSS
 }
 
 .pictures img {
-  max-width: 100%;
+  width: 100%;
+  /* max-width: 100%; */
   /* 	display: block;*/
 }
 
@@ -203,9 +203,9 @@ MOBILE/BURGER CSS
   }
 
   .box a {
-        pointer-events: none;
-    }
-    
+    pointer-events: none;
+  }
+
   /*==============================
   RESPONSIVE MOBILE/BURGER
 ==============================*/
@@ -300,8 +300,3 @@ MOBILE/BURGER CSS
     padding: 0 8% 2% 8%;
   }
 }
-
-
-
-
-
