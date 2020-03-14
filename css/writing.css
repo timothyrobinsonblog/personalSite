@@ -107,6 +107,8 @@ MOBILE/BURGER CSS
 
 .text {
   width: 100%;
+  text-align: justify;
+  font-size: 1rem;
 }
 
 .essays {
