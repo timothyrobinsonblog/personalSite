@@ -148,6 +148,14 @@ li {
   font-size: 1.5rem;
 }
 
+.text-link {
+  color: black;
+}
+
+.text-link:hover {
+  color: gray;
+}
+
 .mobile-text,
 .mobile-picture {
   display: none;
