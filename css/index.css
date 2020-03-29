@@ -20,3 +20,21 @@ a.link-div {
   height: 100%;
   width: 100%;
 }
+
+/*==============================
+  RESPONSIVE DESIGN: TABLET
+==============================*/
+@media screen and (max-width: 992px) {
+  body {
+    background-image: url("../img/index-tablet.jpg");
+  }
+}
+
+/*==============================
+  RESPONSIVE DESIGN: PHONE
+==============================*/
+@media screen and (max-width: 576px) {
+  body {
+    background-image: url("../img/index-mobile.jpg");
+  }
+}
