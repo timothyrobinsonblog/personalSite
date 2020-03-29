@@ -193,26 +193,6 @@ MOBILE/BURGER CSS
     margin-top: 4%;
   }
 
-  .picture {
-    flex-direction: column;
-  }
-
-  .project_ek {
-    width: 100%;
-    padding-top: 2%;
-    margin-bottom: 5%;
-  }
-
-  .project_sote {
-    width: 70%;
-    margin-right: 10%;
-    align-self: flex-end;
-  }
-
-  .project-text {
-    font-size: 1.25rem;
-  }
-
   /*==============================
   RESPONSIVE MOBILE/BURGER
 ==============================*/
@@ -298,5 +278,25 @@ MOBILE/BURGER CSS
 
   .title {
     text-align: center;
+  }
+
+  .picture {
+    flex-direction: column;
+  }
+
+  .project_ek {
+    width: 100%;
+    padding-top: 2%;
+    margin-bottom: 5%;
+  }
+
+  .project_sote {
+    width: 70%;
+    margin-right: 10%;
+    align-self: flex-end;
+  }
+
+  .project-text {
+    font-size: 1.25rem;
   }
 }
