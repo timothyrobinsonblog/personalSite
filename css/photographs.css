@@ -279,3 +279,9 @@ MOBILE/BURGER CSS
   .title {
     text-align: center;
   }
+
+  .box a {
+    pointer-events: none;
+    display: block;
+  }
+}
