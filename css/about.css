@@ -108,7 +108,7 @@ MOBILE/BURGER CSS
 }
 
 .picture img {
-  width: 49%;
+  width: 100%;
   max-width: 100%;
   height: 100%;
   display: block;
