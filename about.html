@@ -88,13 +88,19 @@
 
       <section class="picture">
         <!-- <img src="img/portrait_london.jpg" /> -->
-        <img src="img/portrait_sydney.jpg" />
+        <!-- <img src="img/portrait_sydney.jpg" /> -->
+        <picture>
+          <source media="(min-width: 993px)" srcset="img/portrait_sydney.jpg" />
+          <source media="(min-width: 577px)" srcset="img/portrait_sydney.jpg" />
+          <source media="(max-width: 576px)" srcset="img/portrait_sydney_750.jpg" />
+          <img src="img/portrait_sydney.jpg" alt="picture" />
+        </picture>
       </section>
 
       <article class="text">
-        <div class="mobile-picture">
+        <!-- <div class="mobile-picture">
           <img src="img/portrait_london.jpg" />
-        </div>
+        </div> -->
 
         <p>
           I'm a developer, designer, photographer, and writer. I hold degrees in philosophy, English, and finance. My
@@ -127,9 +133,9 @@
           experience.
         </p>
 
-        <div class="mobile-picture">
+        <!-- <div class="mobile-picture">
           <img src="img/portrait_sydney.jpg" />
-        </div>
+        </div> -->
 
         <p>
           I grew up in Fremantle, Western Australia, but caught the travel bug early. I blame my dad for this. After a
