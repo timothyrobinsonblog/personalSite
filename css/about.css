@@ -103,20 +103,20 @@ MOBILE/BURGER CSS
 
 .picture {
   width: 100%;
-  display: flex;
-  justify-content: space-between;
+  /* display: flex;
+  justify-content: space-between; */
 }
 
 .picture img {
   width: 100%;
   max-width: 100%;
   height: 100%;
-  display: block;
+  /* display: block; */
 }
 
-.mobile-picture {
+/* .mobile-picture {
   display: none;
-}
+} */
 
 .text {
   margin-top: 4%;
@@ -267,15 +267,16 @@ MOBILE/BURGER CSS
     text-align: center;
   }
 
+  .picture {
+    width: 84%;
+    padding: 0 8% 0 8%;
+  }
+
   .text {
     padding: 0 8% 0 8%;
   }
 
-  .picture {
-    display: none;
-  }
-
-  .mobile-picture {
+  /* .mobile-picture {
     display: block;
   }
 
@@ -283,5 +284,5 @@ MOBILE/BURGER CSS
     width: 100%;
     max-width: 100%;
     height: 100%;
-  }
+  } */
 }
