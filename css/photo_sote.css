@@ -26,7 +26,6 @@ html {
 .nav-container {
   float: right;
   margin: 0 20% 0 2vw;
-  /*	word-break: break-word;*/
 }
 
 .nav-logo {
@@ -163,7 +162,6 @@ MOBILE/BURGER CSS
 
   .main-container {
     width: 100%;
-    /*		margin: 0 3% 0 3%;*/
     margin: 1vh 2vh 2vh 2vh;
   }
 
@@ -203,7 +201,6 @@ MOBILE/BURGER CSS
     right: 0px;
     height: 100%;
     top: 0;
-    /*		background-color: #7eb0a5;*/
     background-color: #a51f26;
     display: flex;
     flex-direction: column;
@@ -273,7 +270,6 @@ MOBILE/BURGER CSS
   }
 
   .text {
-    /* padding: 2% 8% 2% 8%; */
     padding: 2% 0% 2% 0%;
   }
 
