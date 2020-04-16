@@ -13,9 +13,6 @@ html {
   margin-top: 5vh;
   font-family: Georgia, "Times New Roman", serif;
   display: flex;
-  /* overflow-x: hidden; */
-  /*overflow: hidden;*/
-  /*position: fixed;*/
 }
 
 /*==============================
@@ -29,7 +26,6 @@ html {
 .nav-container {
   float: right;
   margin: 0 20% 0 2vw;
-  /*	word-break: break-word;*/
 }
 
 .nav-logo {
@@ -200,7 +196,6 @@ MOBILE/BURGER CSS
 
   .main-container {
     width: 100%;
-    /*		margin: 0 3% 0 3%;*/
     margin: 1vh 2vh 2vh 2vh;
   }
 
@@ -260,7 +255,6 @@ MOBILE/BURGER CSS
     right: 0px;
     height: 100%;
     top: 0;
-    /*		background-color: #7eb0a5;*/
     background-color: #a51f26;
     display: flex;
     flex-direction: column;
@@ -328,12 +322,6 @@ MOBILE/BURGER CSS
   .title {
     text-align: center;
   }
-
-  /* .text {
-    text-align: justify;
-    width: 84%;
-    padding-left: 8%;
-  } */
 
   .middlemarch-text,
   .analytic-text {
