@@ -227,6 +227,10 @@ MOBILE/BURGER CSS
       "sartre-text 		";
   }
 
+  .essays img {
+    width: 60%;
+  }
+
   .analytic {
     padding: 0 20% 0 20%;
   }
@@ -321,6 +325,10 @@ MOBILE/BURGER CSS
 
   .title {
     text-align: center;
+  }
+
+  .essays img {
+    width: 100%;
   }
 
   .middlemarch-text,
