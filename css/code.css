@@ -318,14 +318,13 @@ li {
   .mobile-picture {
     display: block;
     padding: 0 8% 0% 8%;
-    margin-bottom: 3vh;
   }
 
   .mobile-text {
     display: block;
     padding: 0;
-    margin-right: -10%;
     font-size: 1.35rem;
     text-align: left;
+    padding-bottom: 4vh;
   }
 }
