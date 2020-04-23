@@ -108,7 +108,7 @@ li {
   text-align: justify;
   font-size: 1rem;
   display: grid;
-  grid-row-gap: 2vh;
+  grid-row-gap: 2.5vh;
   grid-column-gap: 1.5vw;
   grid-template-columns: 1fr 1fr 0.5fr 0.75fr 0.75fr;
   grid-template-rows: repeat(2, auto);
@@ -211,6 +211,10 @@ li {
 
   .title {
     margin-top: 4%;
+  }
+
+  . text {
+    grid-row-gap: 1.5vh;
   }
 
   .text1 {
