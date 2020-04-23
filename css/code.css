@@ -108,7 +108,7 @@ li {
   text-align: justify;
   font-size: 1rem;
   display: grid;
-  grid-row-gap: 2.5vh;
+  grid-row-gap: 2vh;
   grid-column-gap: 1.5vw;
   grid-template-columns: 1fr 1fr 0.5fr 0.75fr 0.75fr;
   grid-template-rows: repeat(2, auto);
@@ -167,6 +167,15 @@ li {
 }
 
 /*==============================
+  RESPONSIVE DESIGN: TABLET TEXT1
+==============================*/
+@media screen and (max-width: 1200px) {
+  .text1 {
+    margin-right: -45%;
+  }
+}
+
+/*==============================
   RESPONSIVE DESIGN: TABLET
 ==============================*/
 @media screen and (max-width: 992px) {
@@ -206,6 +215,7 @@ li {
 
   .text1 {
     font-size: 1.2rem;
+    margin-right: -30%;
   }
 
   .text1-text {
