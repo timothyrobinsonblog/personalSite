@@ -139,7 +139,7 @@ li {
   align-self: center;
   font-size: 1.35rem;
   text-align: left;
-  margin-right: -25%;
+  margin-right: -30%;
 }
 
 .text1-text {
@@ -204,9 +204,17 @@ li {
     margin-top: 4%;
   }
 
+  /* ===========================
+  HAVE ADDED/CHANGED
+========================== */
+
   .text1 {
     grid-area: text1;
-    margin-right: 0%;
+    font-size: 1.2rem;
+  }
+
+  .text1-text {
+    font-size: 1.35rem;
   }
 
   /*==============================
@@ -326,5 +334,12 @@ li {
     font-size: 1.35rem;
     text-align: left;
     padding-bottom: 2vh;
+  }
+
+  /* ===========================
+  HAVE ADDED/CHANGED
+========================== */
+  .text1 {
+    margin-right: 0%;
   }
 }
