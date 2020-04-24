@@ -136,7 +136,7 @@ MOBILE/BURGER CSS
 ==============================*/
 @media screen and (max-width: 992px) {
   html {
-    font-size: 12px;
+    font-size: 13px;
     overflow-x: hidden;
   }
 
