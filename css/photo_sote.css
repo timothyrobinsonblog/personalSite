@@ -273,6 +273,10 @@ MOBILE/BURGER CSS
     padding: 2% 0% 2% 0%;
   }
 
+  .pictures {
+    margin-top: 7%;
+  }
+
   .picture-text {
     padding: 0 8% 2% 8%;
     margin-bottom: 8%;
