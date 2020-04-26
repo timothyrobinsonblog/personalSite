@@ -188,11 +188,6 @@ MOBILE/BURGER CSS
     margin-top: 4%;
   }
 
-  .pictures {
-    grid-template-columns: repeat(1, 100%);
-    grid-row-gap: 5vh;
-  }
-
   /*==============================
   RESPONSIVE MOBILE/BURGER
 ==============================*/
