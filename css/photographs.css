@@ -163,7 +163,7 @@ MOBILE/BURGER CSS
 
   .pictures {
     grid-template-columns: repeat(1, 100%);
-    /* grid-row-gap: 3vh; */
+    grid-row-gap: 3vh;
   }
 
   .empty {
