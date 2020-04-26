@@ -114,7 +114,7 @@ MOBILE/BURGER CSS
 
 .pictures {
   display: grid;
-  margin-top: 4%;
+  margin-top: 5%;
   grid-row-gap: 1vh;
   grid-template-columns: repeat(1, 1fr);
 }
@@ -274,6 +274,10 @@ MOBILE/BURGER CSS
 
   .text {
     padding: 2% 0% 2% 0%;
+  }
+
+  .pictures {
+    margin-top: 8%;
   }
 
   .picture-text {
