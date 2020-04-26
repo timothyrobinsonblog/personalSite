@@ -129,7 +129,7 @@ MOBILE/BURGER CSS
   /*gap between line and text (inside div)*/
   padding: 0 10% 2% 10%;
   /*gap between line and picture below (outside div)*/
-  margin-bottom: 8%;
+  margin-bottom: 5%;
   border-bottom: solid black 1px;
 }
 
