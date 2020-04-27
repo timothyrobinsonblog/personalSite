@@ -312,7 +312,7 @@ li {
 
   .text {
     display: grid;
-    grid-row-gap: 2.5vh;
+    grid-row-gap: 3vh;
     /* grid-column-gap: 2%; */
     grid-template-columns: repeat(1, auto);
     grid-template-areas:
@@ -343,7 +343,7 @@ li {
     font-size: 1.35rem;
     text-align: left;
     /* padding-bottom: 2vh; */
-    padding: 2.5vh 0 2vh 0;
+    padding: 3vh 0 2vh 0;
   }
 
   .text1 {
