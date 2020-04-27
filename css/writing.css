@@ -327,6 +327,10 @@ MOBILE/BURGER CSS
     text-align: center;
   }
 
+  .essays {
+    margin-top: 5%;
+  }
+
   .essays img {
     width: 100%;
   }
